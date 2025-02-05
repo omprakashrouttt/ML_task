@@ -28,6 +28,6 @@ This project uses machine learning algorithms and datasets to solve real-world p
 Special thanks to the contributors and resources that helped build this repository.
 
 # Requirements
-Python 3.x
-Google Colab
-Required Python packages
+- Python 3.x
+- Google Colab
+- Required Python packages
